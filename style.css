@@ -94,3 +94,7 @@ button[type="submit"] {
 .celsius, .fahrenheit {
     cursor: pointer;
 }
+
+h1 {
+    margin-bottom: 0;
+}
